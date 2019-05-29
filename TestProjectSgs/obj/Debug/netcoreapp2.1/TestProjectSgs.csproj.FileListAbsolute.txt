@@ -1,0 +1,15 @@
+C:\Users\esvit\source\repos\TestProjectSgs\TestProjectSgs\obj\Debug\netcoreapp2.1\TestProjectSgs.csproj.CoreCompileInputs.cache
+C:\Users\esvit\source\repos\TestProjectSgs\TestProjectSgs\obj\Debug\netcoreapp2.1\TestProjectSgs.AssemblyInfoInputs.cache
+C:\Users\esvit\source\repos\TestProjectSgs\TestProjectSgs\obj\Debug\netcoreapp2.1\TestProjectSgs.AssemblyInfo.cs
+C:\Users\esvit\source\repos\TestProjectSgs\TestProjectSgs\bin\Debug\netcoreapp2.1\TestProjectSgs.deps.json
+C:\Users\esvit\source\repos\TestProjectSgs\TestProjectSgs\bin\Debug\netcoreapp2.1\TestProjectSgs.runtimeconfig.json
+C:\Users\esvit\source\repos\TestProjectSgs\TestProjectSgs\bin\Debug\netcoreapp2.1\TestProjectSgs.runtimeconfig.dev.json
+C:\Users\esvit\source\repos\TestProjectSgs\TestProjectSgs\bin\Debug\netcoreapp2.1\TestProjectSgs.dll
+C:\Users\esvit\source\repos\TestProjectSgs\TestProjectSgs\bin\Debug\netcoreapp2.1\TestProjectSgs.pdb
+C:\Users\esvit\source\repos\TestProjectSgs\TestProjectSgs\obj\Debug\netcoreapp2.1\TestProjectSgs.RazorAssemblyInfo.cache
+C:\Users\esvit\source\repos\TestProjectSgs\TestProjectSgs\obj\Debug\netcoreapp2.1\TestProjectSgs.RazorAssemblyInfo.cs
+C:\Users\esvit\source\repos\TestProjectSgs\TestProjectSgs\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\esvit\source\repos\TestProjectSgs\TestProjectSgs\obj\Debug\netcoreapp2.1\TestProjectSgs.RazorTargetAssemblyInfo.cache
+C:\Users\esvit\source\repos\TestProjectSgs\TestProjectSgs\obj\Debug\netcoreapp2.1\TestProjectSgs.dll
+C:\Users\esvit\source\repos\TestProjectSgs\TestProjectSgs\obj\Debug\netcoreapp2.1\TestProjectSgs.pdb
+C:\Users\esvit\source\repos\TestProjectSgs\TestProjectSgs\obj\Debug\netcoreapp2.1\TestProjectSgs.csprojAssemblyReference.cache
